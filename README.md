@@ -47,8 +47,6 @@ Project.exe
 ## 👨‍💻 Author
 
 **Mikal Abu-Baker**
-- GitHub: [@MikalAbuBaker](https://github.com/MikalAbuBaker)
-- LinkedIn: [Your LinkedIn Profile URL]
 
 ---
 *This project was developed as a comprehensive implementation phase for an Assembly Language Programming coursework.*
