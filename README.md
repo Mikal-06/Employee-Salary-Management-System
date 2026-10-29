@@ -41,8 +41,6 @@ link /subsystem:console Project.obj Irvine32.lib Kernel32.lib User32.lib
 Project.exe
 ```
 
-## 📸 Screenshots
-*(Note: Add your screenshots here! Take a picture of the Main Menu, the Pay Slip, and the Histogram, then drag and drop them here in GitHub to replace this text).*
 
 ## 👨‍💻 Author
 
